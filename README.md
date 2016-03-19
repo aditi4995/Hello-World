@@ -1,3 +1,16 @@
 # Hello-World
-Just another Respository
-hi humans
+%{
+#include<stdio.h>
+%}
+%%
+(" ") {}
+%%
+main()
+{
+yylex();
+return 0;
+}
+int yywrap()
+{
+}
+
